@@ -1,0 +1,17 @@
+D:\PROGRAMOWANIE\C#\projekty\Tetris\bin\Debug\Tetris.exe.config
+D:\PROGRAMOWANIE\C#\projekty\Tetris\bin\Debug\Tetris.exe
+D:\PROGRAMOWANIE\C#\projekty\Tetris\bin\Debug\Tetris.pdb
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Field.g.cs
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\MainWindow.g.cs
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\App.g.cs
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Field.baml
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\MainWindow.baml
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris.g.resources
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris.exe
+D:\PROGRAMOWANIE\C#\projekty\Tetris\obj\Debug\Tetris.pdb
